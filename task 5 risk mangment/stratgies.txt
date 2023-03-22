@@ -1,0 +1,23 @@
+risk stratgies i'll follow throughout the project
+
+
+
+1) natural disaster:-                              accept& mitigate     "by changing the team norms such as working hours and people can work remotly"
+
+2)suppliers reject to work with us:-                         avoid       "sign a contract with rules of termination"
+
+3)delays in approval from client:-                           mitigate    "communication plans"
+
+4)app crashes after release:-                                avoid       "high load testing before release"
+
+5)bad feedbacks and reviews:-                                avoid       "soft release to find and fix bugs,community survey"
+
+6)app get rejected by app/play store:-                       mitigate    "checking rules of publication on both platform,and following them with caution"
+
+7)scope change & adding features:-                           mitigate    "Plan scope before sprint start, approve scope with the client & team"
+
+8)team member decide to quit:-                               avoid       "regular reviews, building a friendly working enviroment"
+
+9)team member gets sick:-                                    accept      "ask another developer for a part time work to cover up for his team mate"
+
+10)conflict among stakeholders regarding functionality:-     avoid       "regular reports about project status& regular feedbacks from stakeholders"
